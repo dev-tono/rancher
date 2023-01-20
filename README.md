@@ -1,5 +1,8 @@
 # Rancher
 
+```yaml
+s3_uri: s3://<test>
+```
 *This file is auto-generated from README-template.md, please make any changes there.*
 
 [![Build Status](https://drone-publish.rancher.io/api/badges/rancher/rancher/status.svg?branch=release/v2.6)](https://drone-publish.rancher.io/rancher/rancher)
